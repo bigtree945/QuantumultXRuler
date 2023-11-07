@@ -1,0 +1,14 @@
+{
+    "name": "Bigtree Color",
+    "icons": [
+        {
+            "name": "ChatGPT.png",
+            "url": "https://raw.githubusercontent.com/bigtree945/QuantumultXRuler/main/icon/ChatGPT.png"
+        },
+        {
+            "name": "GoogleVoice.png",
+            "url": "https://raw.githubusercontent.com/bigtree945/QuantumultXRuler/main/icon/GoogleVoice.png"
+        }
+    ],
+    "description": "Bigtree Color 是 Qure 项目中没有的彩色主题的图标集 自用图标集"
+}

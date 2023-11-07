@@ -1,0 +1,10 @@
+# Google Voice list
+
+host-suffix,voice.google.com, GoogleVoice 
+host-suffix,accounts.google.com, GoogleVoice 
+host-suffix,hangouts.google.com, GoogleVoice 
+host-suffix,hangouts.googleusercontent.com,GoogleVoice 
+host-suffix,googleusercontent.com, GoogleVoice 
+host-suffix,gstatic.com, GoogleVoice 
+host-suffix,googleapis.com, GoogleVoice 
+host-suffix,  google.com, GoogleVoice
