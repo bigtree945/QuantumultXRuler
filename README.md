@@ -4,7 +4,7 @@ Quantumult X 的一些 app 分流规则以及图标，只负责搬运，并且�
 
 # 使用说明
 
-1. 图标库导入：长按某条策略 => 图标 => ＋ => 粘贴链接：https://raw.githubusercontent.com/bigtree945/QuantumultXRuler/main/icon/BigtreeColor.json
+1. 图标库导入：长按某条策略 => 图标 => ＋ => 粘贴链接：https://raw.githubusercontent.com/bigtree945/QuantumultXRuler/master/icons/BigtreeColor.json
 
 # 免责声明
 
