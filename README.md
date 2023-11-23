@@ -5,6 +5,7 @@ Quantumult X 的一些 app 分流规则以及图标，只负责搬运，并且�
 # 使用说明
 
 1. 图标库导入：长按某条策略 => 图标 => ＋ => 粘贴链接：https://raw.githubusercontent.com/bigtree945/QuantumultXRuler/master/icons/BigtreeColor.json
+1. 设置 => 其他设置 => 删除图片缓存 => 退出 Quantumult X 并清除后台重新登录
 
 # 免责声明
 
