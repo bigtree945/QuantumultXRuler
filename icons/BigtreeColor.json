@@ -1,22 +1,30 @@
 {
-    "name": "Bigtree Color",
-    "icons": [
-        {
-            "name": "ChatGPT.png",
-            "url": "https://raw.githubusercontent.com/bigtree945/QuantumultXRuler/master/icons/ChatGPT.png"
-        },
-        {
-            "name": "ChatGPT1.png",
-            "url": "https://raw.githubusercontent.com/bigtree945/QuantumultXRuler/master/icons/ChatGPT1.png"
-        },
-        {
-            "name": "GoogleVoice.png",
-            "url": "https://raw.githubusercontent.com/bigtree945/QuantumultXRuler/master/icons/GoogleVoice.png"
-        },
-        {
-            "name": "Talkatone.png",
-            "url": "https://raw.githubusercontent.com/bigtree945/QuantumultXRuler/master/icons/Talkatone.png"
-        }
-    ],
-    "description": "Bigtree Color 是 Qure 项目中没有的彩色主题的图标集 自用图标集"
+  "name": "Bigtree Color",
+  "icons": [
+    {
+      "name": "Bing.png",
+      "url": "https://raw.githubusercontent.com/bigtree945/QuantumultXRuler/master/icons/Bing.png"
+    },
+    {
+      "name": "ChatGPT.png",
+      "url": "https://raw.githubusercontent.com/bigtree945/QuantumultXRuler/master/icons/ChatGPT.png"
+    },
+    {
+      "name": "ChatGPT1.png",
+      "url": "https://raw.githubusercontent.com/bigtree945/QuantumultXRuler/master/icons/ChatGPT1.png"
+    },
+    {
+      "name": "GoogleVoice.png",
+      "url": "https://raw.githubusercontent.com/bigtree945/QuantumultXRuler/master/icons/GoogleVoice.png"
+    },
+    {
+      "name": "Talkatone.png",
+      "url": "https://raw.githubusercontent.com/bigtree945/QuantumultXRuler/master/icons/Talkatone.png"
+    },
+    {
+      "name": "LinkedIn.png",
+      "url": "https://raw.githubusercontent.com/bigtree945/QuantumultXRuler/master/icons/LinkedIn.png"
+    }
+  ],
+  "description": "Bigtree Color 是 Qure 项目中没有的彩色主题的图标集 自用图标集"
 }
